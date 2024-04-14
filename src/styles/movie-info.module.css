@@ -9,6 +9,8 @@
 .poster {
 	border-radius: 20px;
 	max-width: 70%;
+	width: 100%;
+	height: auto;
 	place-self: center;
 }
 
